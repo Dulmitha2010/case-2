@@ -1,0 +1,48 @@
+
+.copy_right_footer 
+{
+  position: fixed;
+  color: white;
+  bottom: 0;
+  width: 100%;
+  background-color: grey;
+  line-height: 3;
+  text-align: center;
+}
+
+ol h5
+{
+  background-color: white;
+  padding: 13px;
+  border-radius: 20px;
+
+}
+span
+{
+  color: red;
+  font-size: 16px;
+  
+}
+li img
+{
+  border-radius: 20px;
+  width: 40%;
+  
+}
+.bob
+{
+  background-color: gray;
+  padding: 30px;
+  border-radius: 20px;
+  margin-top: 50px;
+
+}
+b
+{
+  color: blue;
+}
+.bob3
+{
+  text-align: center;
+  color:white;
+}
